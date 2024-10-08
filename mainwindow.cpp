@@ -138,7 +138,7 @@ void MainWindow::stopRollingDice() {
     if(currentPlayer->isInJail()){
         if(firstDiceRandomResult == secondDiceRandomResult){
             currentPlayer->setIsInJail(false);
-            currentPlayer->ge//fwergfwergwrg
+            //currentPlayer->ge//fwergfwergwrg
         }else{
             return;
         }
